@@ -1,6 +1,3 @@
-# visual-stimulus-analysis
-Computational visual neuroscience project exploring the generation and quantitative analysis of visual stimuli using Python.
-
 # Visual Stimulus Analysis Using Python
 
 ## Project Overview
